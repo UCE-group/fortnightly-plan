@@ -1,4 +1,4 @@
-# 计算机爱好者联盟 - Weekly Plan (WP)  [`web`](#) [`pdf`](https://github.com/UCE-group/weekly-plan/weekly-plan.pdf)
+# 计算机爱好者联盟 - Weekly Plan (WP)  [`web`](#) [`pdf`](https://raw.githubusercontent.com/UCE-group/weekly-plan/master/weekly-plan.pdf)
 
 [`Master`](https://github.com/UCE-group/weekly-plan) [`美工组`](https://github.com/UCE-group/weekly-art) [`APP组`](https://github.com/UCE-group/weekly-mobile)  [`编程组`](https://github.com/UCE-group/weekly-program) [`网站组`](https://github.com/UCE-group/weekly-web)
 
