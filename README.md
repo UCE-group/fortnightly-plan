@@ -33,10 +33,10 @@
 
 - **Github**（以Issues的形式提交）
   - 进入本组对应repo中提交Issues
-   		- 美工组（视觉设计）：https://github.com/UCE-group/weekly-art/issues
-		- APP组（Android、iOS）：https://github.com/UCE-group/weekly-mobile/issues
-		- 编程组：https://github.com/UCE-group/weekly-program/issues
-		- 网站组：https://github.com/UCE-group/weekly-web/issues
+   	- 美工组（视觉设计）：https://github.com/UCE-group/weekly-art/issues
+	- APP组（Android、iOS）：https://github.com/UCE-group/weekly-mobile/issues
+	- 编程组：https://github.com/UCE-group/weekly-program/issues
+	- 网站组：https://github.com/UCE-group/weekly-web/issues
   - 点击按钮 `New issue` ，每两周每人一个 issue
   - Title：标题格式如:  `【WP】2017年春期-第5-6周-姓名`  （上学期为秋期，下学期为春期） 
   - Write：内容格式为:  列表（markdown）
@@ -89,5 +89,7 @@
 
 > 希望大家能在参与其中的同时，得到锻炼与收获，也将[计算机爱好者联盟GitHub](https://github.com/UCE-group)丰富完善、充满干货
 >
+
+---
 
 @ [计算机爱好者联盟](http://www.buctuce.com)
