@@ -38,7 +38,7 @@
 	- 编程组：https://github.com/UCE-group/weekly-program/issues
 	- 网站组：https://github.com/UCE-group/weekly-web/issues
   - 点击按钮 `New issue` ，每两周每人一个 issue
-  - Title：标题格式如:  `【WP】2017年春期-第5-6周-姓名`  （上学期为秋期，下学期为春期） 
+  - Title：标题格式如:  `【WP】2017年春期-第6-7周-姓名`  （上学期为秋期，下学期为春期） 
   - Write：内容格式为:  列表（markdown）
 - **组内内部QQ群**（全部内容，以 Markdown 链接方式发送）
 
@@ -52,7 +52,7 @@
 
 - **Github**（以Issues的形式提交）https://github.com/UCE-group/weekly-plan/issues
   - 点击按钮 `New issue `，每周每组一个Issue
-  - **Title**：标题格式如:  `【WP】2017年春期-第5-6周`  （上学期为秋期，下学期为春期） 
+  - **Title**：标题格式如:  `【WP】2017年春期-第6-7周`  （上学期为秋期，下学期为春期） 
   - **Write**：内容格式为:  每个组员的名字为一级标题，内容为列表（markdown）
   - **Labels**：选择各小组名:  `美工组` `APP组` `编程组` `网站组` 
 - **组内内部QQ群**（仅发送**小组名 - Issues链接**即可）
