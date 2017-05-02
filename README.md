@@ -3,12 +3,12 @@
 ## WP规则  
 **提交周期**：两周一次  
 **提交地址**： [`issues`](https://github.com/UCE-group/weekly-plan/issues)  
-**近期提交时间**：2017.04.22（周六）  
+**近期提交时间**：2017.05.06（周六）  
 
 ## WP格式   
-**标题**：`【WP】2017年春期-第10-11周-姓名`  
+**标题**：`【WP】2017年春期-第12-13周-姓名`  
 **内容**：建议使用Markdown编辑（[Markdown教程](http://www.markdowntutorial.com/)）  
-**标签**： 美工，编程，app，网站等  
+**标签**： 设计，编程，app，网站等  
 
 > 多谈学习进度，简写学习规划。  
 > Do not just talk the talk, but also walk the walk.  
