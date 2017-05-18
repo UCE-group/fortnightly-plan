@@ -3,7 +3,7 @@
 ## WP规则  
 **提交周期**：两周一次  
 **提交地址**： [`issues`](https://github.com/UCE-group/weekly-plan/issues)  
-**近期提交时间**：2017.05.06（周六）  
+**近期提交时间**：2017.05.20（周六）  
 
 ## WP格式   
 **标题**：`【WP】2017年春期-第12-13周-姓名`  
@@ -23,9 +23,11 @@
 反例：【Wiki】知识分享  
 
 ## 往期计划汇总  
-* 2016.11 [UCE成员2016学习计划集合](https://www.zybuluo.com/diyer22/note/372766)  
-* 2016.12 [学习计划汇总及近期资源分享](https://www.zybuluo.com/0xl2oot/note/580249)  
-* 2017.03 [学习计划收录 && 文章集合](https://www.zybuluo.com/0xl2oot/note/673864)  
+* 2015-2016学年
+  * 2016.11 [UCE成员2016学习计划集合](https://www.zybuluo.com/diyer22/note/372766)  
+* 2016-2017学年
+  * 2016.12 [学习计划汇总及近期资源分享](https://www.zybuluo.com/0xl2oot/note/580249)
+  * 2017.03 [学习计划收录 && 文章集合](https://www.zybuluo.com/0xl2oot/note/673864)
 
 > 莫失莫忘，初心不改，一路有你，不虚此行。  
 > Follow your heart! Just do IT.  
