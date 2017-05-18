@@ -22,12 +22,13 @@
 格式如：【计算机二级】公共基础知识 BY 叶根生  
 反例：【Wiki】知识分享  
 
-## 往期计划汇总  
-* 2015-2016学年
-  * 2016.11 [UCE成员2016学习计划集合](https://www.zybuluo.com/diyer22/note/372766)  
-* 2016-2017学年
-  * 2016.12 [学习计划汇总及近期资源分享](https://www.zybuluo.com/0xl2oot/note/580249)
-  * 2017.03 [学习计划收录 && 文章集合](https://www.zybuluo.com/0xl2oot/note/673864)
+## 往期计划汇总
+**2015-2016学年**
+* 2016.11 [UCE成员2016学习计划集合](https://www.zybuluo.com/diyer22/note/372766)  
+
+**2016-2017学年**
+* 2016.12 [学习计划汇总及近期资源分享](https://www.zybuluo.com/0xl2oot/note/580249)
+* 2017.03 [学习计划收录 && 文章集合](https://www.zybuluo.com/0xl2oot/note/673864)
 
 > 莫失莫忘，初心不改，一路有你，不虚此行。  
 > Follow your heart! Just do IT.  
