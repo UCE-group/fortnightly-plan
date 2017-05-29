@@ -1,12 +1,12 @@
-# 计算机爱好者联盟 - Weekly Plan (WP)  
+# 计算机爱好者联盟 - Fortnightly Plan (FP)  
 
-## WP规则  
+## FP规则  
 **提交周期**：两周一次  
-**提交地址**： [`issues`](https://github.com/UCE-group/weekly-plan/issues)  
-**近期提交时间**：2017.05.20（周六）  
+**提交地址**： [`issues`](https://github.com/UCE-group/fortnightly-plan/issues)  
+**近期提交时间**：2017.06.03（周六）  
 
-## WP格式   
-**标题**：`【WP】2017年春期-第12-13周-姓名`  
+## FP格式   
+**标题**：`【FP】2017年春期-第16-17周-姓名`  
 **内容**：建议使用Markdown编辑（[Markdown教程](http://www.markdowntutorial.com/)）  
 **标签**： 设计，编程，app，网站等  
 
@@ -14,7 +14,7 @@
 > Do not just talk the talk, but also walk the walk.  
 
 ## wiki规则  
-**分享地址**：[`Wiki`](https://github.com/UCE-group/weekly-plan/wiki)  
+**分享地址**：[`Wiki`](https://github.com/UCE-group/fortnightly-plan/wiki)  
 **分享内容**：技术心得，学习笔记，读过的精彩博文等（鼓励原创）  
 
 ## wiki格式  
