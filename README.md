@@ -6,9 +6,9 @@
 **近期提交时间**：2017.06.03（周六）  
 
 ## FP格式   
-**标题**：`【FP】2017年春期-第16-17周-姓名`  
-**内容**：建议使用Markdown编辑（[Markdown教程](http://www.markdowntutorial.com/)）  
-**标签**： 设计，编程，app，网站等  
+**标题**：`【FP】2017年春期-第16-17周-姓名`  
+**内容**：建议使用Markdown编辑（[Markdown教程](http://www.markdowntutorial.com/))  
+**标签**：设计，编程，app，网站等  
 
 > 多谈学习进度，简写学习规划。  
 > Do not just talk the talk, but also walk the walk.  
