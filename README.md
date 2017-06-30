@@ -3,10 +3,10 @@
 ## FP规则  
 **提交周期**：两周一次  
 **提交地址**： [`issues`](https://github.com/UCE-group/fortnightly-plan/issues)  
-**近期提交时间**：2017.06.03（周六）  
+**近期提交时间**：2017.07.01（周六）  
 
 ## FP格式   
-**标题**：`【FP】2017年春期-第16-17周-姓名`  
+**标题**：`【FP】2017年小学期-第1-3周-姓名`  
 **内容**：建议使用Markdown编辑（[Markdown教程](http://www.markdowntutorial.com/))  
 **标签**：设计，编程，app，网站等  
 
