@@ -41,6 +41,8 @@
 > Follow your heart! Just do IT.  
 
 ## 其他
-点击页面右上角的 `Watch` 按钮, 关注 Fortnightly Plan, 有人提交 issues 后会得到通知.
+点击页面右上角的 `Watch` 按钮, 关注 Fortnightly Plan, 有人提交 issues 后会得到通知.  
+微信扫描小程序二维码，可以在手机端查看：  
+![](https://github.com/UCE-group/fortnightly-plan/blob/master/小程序码.jpg)
 
 @ [计算机爱好者联盟](http://www.buctuce.com)
