@@ -40,7 +40,10 @@
 > 莫失莫忘，初心不改，一路有你，不虚此行。  
 > Follow your heart! Just do IT.  
 
-## 其他
+## 数据分析
+> [2020年12月21日累计数据分析](https://github.com/UCE-group/fortnightly-plan/blob/master/FP_analysis_20201221.ipynb)  
+
+## 小程序
 点击页面右上角的 `Watch` 按钮, 关注 Fortnightly Plan, 有人提交 issues 后会得到通知.  
 微信扫描小程序二维码，可以在手机端查看：  
 ![](https://github.com/UCE-group/fortnightly-plan/blob/master/小程序码.jpg)
